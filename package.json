@@ -1,5 +1,5 @@
 {
-  "name": "burgereater-mysql-express",
+  "name": "burger-eating---node-express-handlebars-sequelize",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
